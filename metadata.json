@@ -13,9 +13,7 @@
         "Id": "menu11",
         "License": "GPL-2.0+",
         "Name": "Menu 11",
-        "ServiceTypes": [
-            "Plasma/Applet"
-        ],
+        "KPackageStructure": "Plasma/Applet",
         "Version": "8.0",
         "Website": "https://github.com/prateekmedia/Menu11"
     },
