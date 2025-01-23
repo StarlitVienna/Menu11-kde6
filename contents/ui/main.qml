@@ -181,7 +181,7 @@ Item {
         id: processRunner;
     }
 
-    PlasmaCore.FrameSvgItem {
+    KSvg.SvgItem {
         id: highlightItemSvg
 
         visible: false
@@ -190,7 +190,7 @@ Item {
         prefix: "hover"
     }
 
-    PlasmaCore.FrameSvgItem {
+    KSvg.SvgItem {
         id: panelSvg
 
         visible: false
